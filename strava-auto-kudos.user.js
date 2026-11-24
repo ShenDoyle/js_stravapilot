@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Strava 工具箱
 // @namespace    http://cbm.im/
-// @version      1.9.1
+// @version      1.5.1
 // @description  自动点赞（按活动日期 / 白黑名单 / 可暂停）；评论一键 @ 回复；环形悬浮球面板；个人主页训练统计；付费推广分类隐藏
 // @author       左³
 // @license      Apache-2.0
@@ -1119,7 +1119,7 @@
               <div class="sub"><button id="clear" type="button">清空点赞记录</button></div>
               <div class="foot">
                 首页只提供最近约 10 天活动，更早的可以去他人主页点赞。<br>
-                v1.9.1 · 作者 <a href="https://www.strava.com/athletes/142433407" target="_blank" rel="noopener">左³</a>
+                v1.5.1 · 作者 <a href="https://www.strava.com/athletes/142433407" target="_blank" rel="noopener">左³</a>
               </div>
             </div>
           </div>
